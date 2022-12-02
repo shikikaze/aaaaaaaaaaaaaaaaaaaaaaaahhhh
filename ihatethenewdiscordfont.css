@@ -22,7 +22,7 @@
 .theme-dark {
     --version1_0_6: none;
     --text-normal: #dcddde;
-    --text-muted: #4a4a52;
+    --text-muted: #70707c;
     --text-link: #6e6af6;
     --text-positive: #50dc7d;
     --text-warning: #8d4949;
@@ -31,7 +31,7 @@
     --interactive-normal: #b9bbbe;
     --interactive-hover: #dcddde;
     --interactive-active: #c9ced0;
-    --interactive-muted: #4f545c;
+    --interactive-muted: #797f88;
     --background-primary: #101014;
     --background-secondary: #17161b;
     --background-secondary-alt: #17161b;
