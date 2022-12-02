@@ -21,7 +21,8 @@
 :root,
 .theme-dark {
     --version1_0_6: none;
-    --text-normal: #dcddde;
+    /*--text-normal: #dcddde;*/
+    --text-normal: #000000;
     --text-muted: #70707c;
     --text-link: #6e6af6;
     --text-positive: #50dc7d;
